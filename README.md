@@ -1,4 +1,4 @@
-# Desktop Cleaner Script
+# Desktop File Organizer
 
 ## Overview
 This Python script organizes files in a specified folder by moving them into subfolders based on their file extensions. It helps keep your desktop or downloads folder tidy by categorizing files into relevant directories.
