@@ -62,6 +62,7 @@ Cleaning complete.
 - This script only moves files and does not delete anything.
 - Works best for commonly used folders like `Downloads`, `Desktop`, etc.
 
-## License
-This project is licensed under the MIT License.
+## 🧑‍💻 Developer
 
+Made by **Muhammad Yusuf Aditiya (Myfza)**  
+🔗 [GitHub](https://github.com/Myfza) | [LinkedIn](https://www.linkedin.com/in/myfza)
